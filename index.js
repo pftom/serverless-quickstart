@@ -1,5 +1,3 @@
-function helloworld() {
-  return "hello world";
-}
+const helloworld = require("./app");
 
 console.log(helloworld());
