@@ -149,6 +149,58 @@
           ]
         },
         {
+          "file": "index.js",
+          "display": true,
+          "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件前置解释"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件后置解释"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "type": "file",
           "file": ".gitignore",
           "display": false,
@@ -200,9 +252,56 @@
           ]
         },
         {
-          "file": "index.js",
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "步骤后置解释"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
+      "id": "6Dcr8cSvNP",
+      "articleId": "5bac1444ecf69f8740cca87210d576d9",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
+          "id": "lDr4gjF3j0",
+          "fixed": true,
+          "children": [
+            {
+              "text": "了解一下 Node"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "步骤前置解释"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "app.js",
           "display": true,
-          "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+          "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
           "type": "file",
           "children": [
             {
@@ -221,8 +320,60 @@
             },
             {
               "type": "diff-block",
+              "file": "app.js",
+              "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件后置解释"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件前置解释helloworld"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
               "file": "index.js",
-              "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+              "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
               "hiddenLines": [],
               "children": [
                 {
