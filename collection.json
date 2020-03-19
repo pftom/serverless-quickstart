@@ -7,14 +7,32 @@
     {
       "name": "动手学 JS",
       "description": "手把手教你学 JS",
-      "id": "5bac1444ecf69f8740cca87210d576d9"
+      "id": "5bac1444ecf69f8740cca87210d576d9",
+      "topics": [
+        "JS"
+      ],
+      "cover": ".tuture/assets/封面.png"
+    },
+    {
+      "id": "K8wr1GkGB",
+      "created": "2020-03-19T14:21:30.237Z",
+      "name": "JS 学习第二弹",
+      "topics": [],
+      "cover": ""
+    },
+    {
+      "id": "adw9FmeZN",
+      "created": "2020-03-19T14:21:53.783Z",
+      "name": "JS 学习第三弹",
+      "topics": [],
+      "cover": ""
     }
   ],
   "steps": [
     {
       "commit": "7eb7a52270b5c8327c78ce3416368a2ae577a02e",
       "id": "FZVDkMmmg",
-      "articleId": "5bac1444ecf69f8740cca87210d576d9",
+      "articleId": "K8wr1GkGB",
       "type": "step",
       "children": [
         {
@@ -270,7 +288,7 @@
     {
       "commit": "de828d0a0b80ed8dcc679a01b4f87a7f6dc8bec1",
       "id": "6Dcr8cSvNP",
-      "articleId": "5bac1444ecf69f8740cca87210d576d9",
+      "articleId": "adw9FmeZN",
       "type": "step",
       "children": [
         {
@@ -411,6 +429,105 @@
               "children": [
                 {
                   "text": "步骤后置解释"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "73ba03bf8021cdbec884010d9f8cfa618e5d9d9b",
+      "id": "daPVsDlXnM",
+      "articleId": "K8wr1GkGB",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "73ba03bf8021cdbec884010d9f8cfa618e5d9d9b",
+          "id": "rp67vzVwQa",
+          "fixed": true,
+          "children": [
+            {
+              "text": "学习了 HTML"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "display": true,
+          "commit": "73ba03bf8021cdbec884010d9f8cfa618e5d9d9b",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.html",
+              "commit": "73ba03bf8021cdbec884010d9f8cfa618e5d9d9b",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
