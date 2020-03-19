@@ -1,0 +1,271 @@
+{
+  "name": "动手学 JS",
+  "description": "",
+  "id": "5bac1444ecf69f8740cca87210d576d9",
+  "created": "2020-03-19T14:06:55.457Z",
+  "articles": [
+    {
+      "name": "动手学 JS",
+      "description": "手把手教你学 JS",
+      "id": "5bac1444ecf69f8740cca87210d576d9"
+    }
+  ],
+  "steps": [
+    {
+      "commit": "7eb7a52270b5c8327c78ce3416368a2ae577a02e",
+      "id": "FZVDkMmmg",
+      "articleId": "5bac1444ecf69f8740cca87210d576d9",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "7eb7a52270b5c8327c78ce3416368a2ae577a02e",
+          "id": "q1X_Fl64bV",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第一次学习 JS"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "这个 Commit（步骤）前置解释，我为什么要写这个步骤？我为什么要在开发的时候提交这个 Commit？写出你的原因！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "7eb7a52270b5c8327c78ce3416368a2ae577a02e",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件的前置解释框：你为什么要在这个步骤中改动这个文件，详细阐述一下你的理由："
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "7eb7a52270b5c8327c78ce3416368a2ae577a02e",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件后置解释框：解释一下上面的改动分别那些事，比如我们这里写了一行 "
+                    },
+                    {
+                      "text": "Hello Wolrd",
+                      "code": true
+                    },
+                    {
+                      "text": " 。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+      "id": "UQKrmP3myv",
+      "articleId": "5bac1444ecf69f8740cca87210d576d9",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+          "id": "WFTX0s3DHR",
+          "fixed": true,
+          "children": [
+            {
+              "text": "学习一下 JS 函数"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "步骤前置解释"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "file": ".gitignore",
+          "display": false,
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": ".gitignore",
+              "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件前置解释"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "8e6372e8529705e6a4e305fccd649e32c7088c87",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "文件后置解释"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "步骤后置解释"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
